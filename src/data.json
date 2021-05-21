@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Sorry We Missed You",
+    "rate": 7.6,
+    "description": "Ricky and his family have been fighting an uphill struggle against debt since the 2008 financial crash. An opportunity to wrestle back some independence appears with a shiny new van and the chance to run a franchise as a self-employed delivery driver. It's hard work, and his wife's job as a carer is no easier. The family unit is strong but when both are pulled in different directions everything comes to breaking point."
+  },
+  {
+    "id": 2,
+    "name": "Emma",
+    "rate": 6.8,
+    "description": "Following the antics of a young woman, Emma Woodhouse, who lives in Georgian- and Regency-era England and occupies herself with matchmaking - in sometimes misguided, often meddlesome fashion- in the lives of her friends and family."
+  },
+  {
+    "id": 3,
+    "name": "The Invisible Man",
+    "rate": 7.2,
+    "description": "After staging his own suicide, a crazed scientist uses his power to become invisible to stalk and terrorize his ex-girlfriend. When the police refuse to believe her story, she decides to take matters into her own hands and fight back."
+  },
+  {
+    "id": 4,
+    "name": "The Way Back",
+    "rate": 6.8,
+    "description": "Jack Cunningham was a high school basketball superstar who suddenly walked away from the game for unknown reasons. Years later, he's now stuck in a meaningless job and struggling with alcoholism -- the very thing that ruined his marriage and his hope for a better life. But Jack soon gets a shot at redemption when he becomes the basketball coach for his alma mater, a program that has fallen on hard times since his teenage glory days."
+  },
+  {
+    "id": 5,
+    "name": "Beanpole",
+    "rate": 7.2,
+    "description": "During World War II in Leningrad, the siege of the city is finally over, but life and death struggles continue in the wreckage that remains. Two young women search for meaning and hope during their struggle to rebuild their lives amongst the ruins."
+  },
+  {
+    "id": 6,
+    "name": "Crip Camp",
+    "rate": 7.7,
+    "description": "Crip Camp: A Disability Revolution is a 2020 documentary film, directed by James Lebrecht and Nicole Newnham. The film features Larry Allison, Judith Heumann, James Lebrecht, Denise Sherer Jacobson, and Stephen Hofmann. The film was released under the banner of Barack and Michelle Obama's Higher Ground Productions."
+  },
+  {
+    "id": 7,
+    "name": "Never Rarely Sometimes Always",
+    "rate": 7.2,
+    "description": "Faced with an unintended pregnancy and a lack of local support, Autumn and her cousin, Skylar, travel across state lines to New York City on a fraught journey of friendship, bravery and compassion."
+  },
+  {
+    "id": 8,
+    "name": "Bacurau",
+    "rate": 7.7,
+    "description": "A filmmaker decides to travel to a village in the interior of Brazil to make a documentary. As days go by, he begins to discover that the locals are not exactly what they appear to be and hide dangerous secrets"
+  },
+  {
+    "id": 9,
+    "name": "Saint Maud",
+    "rate": 6.9,
+    "description": "Maud is a reclusive young nurse whose impressionable demeanour causes her to pursue a pious path of Christian devotion after an obscure trauma. Now charged with the hospice care of Amanda, a retired dancer ravaged by cancer, Maud's fervent faith quickly inspires an obsessive conviction that she must save her ward's soul from eternal damnation, whatever the cost."
+  },
+  {
+    "id": 10,
+    "name": "Gretel & Hansel",
+    "rate": 6.9,
+    "description": "When their mother descends into madness, siblings Gretel and Hansel must fend for themselves in the dark and unforgiving woods. Hungry and scared, they fortuitously stumble upon a bounty of food left outside an isolated home. Invited inside by the seemingly friendly owner, the children soon suspect that her generous but mysterious behaviour is part of a sinister plan to do them harm."
+  }
+]
