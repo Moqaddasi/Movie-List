@@ -1,11 +1,10 @@
 import React from "react";
-import Listitem from "./Listitem";
-function List({ items }) {
-
+import ListItem from "./ListItem";
+function List({ items, onStateChange }) {
   return (
     <ul>
       {items.map((item) => (
-        <Listitem key={item.id} text={item.text} rate={item.rate} />
+        <ListItem item={item} onClick={() => onStateChange(item)} />
       ))}
     </ul>
   );

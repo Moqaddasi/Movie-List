@@ -1,7 +1,14 @@
 import React from "react";
 
-function Listitem({ img, text, rate }) {
-  return <li>{`${text}, ${rate}`}</li>;
+function ListItem({ item, onClick }) {
+  return (
+    <li>
+      {`${item.text}, ${item.rate}`}
+      <div onClick={onClick}>
+        <button> {item.state ? "undone" : "done"}</button>
+      </div>
+    </li>
+  );
 }
 
-export default Listitem;
+export default ListItem;
